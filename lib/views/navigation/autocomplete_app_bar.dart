@@ -1,17 +1,16 @@
 import 'package:auto_size_text/auto_size_text.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_typeahead/flutter_typeahead.dart';
-import 'package:kjgplus/models/prayer.dart';
+import 'package:kjgplus/main.dart';
 import 'package:kjgplus/utils/initialize_lists.dart';
 import 'package:kjgplus/utils/size_config.dart';
 import 'package:kjgplus/views/screens/main_screens/full_prayer_list.dart';
 
 class AutocompleteAppBar extends StatelessWidget implements PreferredSizeWidget{
   String title ;
-  InitializeLists lists = new InitializeLists();
+  InitializeLists lists = InitializeLists();
 
-  AutocompleteAppBar(this.title);
+  AutocompleteAppBar(this.title, {super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -20,74 +19,36 @@ class AutocompleteAppBar extends StatelessWidget implements PreferredSizeWidget{
       AppBar(
           backgroundColor: Color.fromRGBO(131,133,136, 0),
           title: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                SizedBox(
-                    width: SizeConfig.screenWidth / 2,
-                    child:TypeAheadField(
-                      // decoration: const InputDecoration(
-                      //   hintText: "Paieška",
-                      //   prefixIcon: Icon(Icons.search),
-                      //   hintStyle: TextStyle(fontFamily: 'Segoepr', fontSize: 20),
-                      // ),
-                      builder: (context, controller, focusNode) {
-                        return TextField(
-                          controller: controller,
-                          focusNode: focusNode,
-                          obscureText: true,
-                          decoration: InputDecoration(
-                              hintText: "Paieška",
-                              prefixIcon: Icon(Icons.search),
-                              hintStyle: TextStyle(fontFamily: 'Segoepr', fontSize: 20),
-                        // ),
-                        //     border: OutlineInputBorder(
-                        //       borderRadius: BorderRadius.circular(8),
-                        //     ),
-                        //     labelText: 'Password',
-                          ));
-                        },
-                      // textFieldConfiguration: const TextFieldConfiguration(
+                    Flexible(
                       
-                      //   decoration: InputDecoration(
-                      //     hintText: "Paieška",
-                      //     prefixIcon: Icon(Icons.search),
-                      //     hintStyle: TextStyle(fontFamily: 'Segoepr', fontSize: 20),
-                      //   ),
-                      // ),
-                      // suggestionsBoxDecoration: SuggestionsBoxDecoration (
-                      
-                      //     elevation: 0,
-                      //     offsetX: 0,
-                      //     constraints: BoxConstraints(maxWidth: 400)),
-                      suggestionsCallback: (pattern) async {
-
-                        return lists.prayerNames;
-                      },
-                      itemBuilder: (context, suggestion) {
-                        return
-                          SizedBox(
-                            width: SizeConfig.screenWidth / 2.5,
-                            child: ListTile(
-                              title: Text( suggestion ),
-                              minLeadingWidth: SizeConfig.screenWidth,
-                            ),
-                          );
-
-                      },
-                      onSelected: (suggestion) {
-                        Navigator.push(
-                          context,
-                          MaterialPageRoute(builder: (context) => FullPrayerList(suggestion)),
-                        );
-                      },
-                    )),
-                Flexible(
                     child: FittedBox(
                       fit: BoxFit.fitHeight,
                       child: AutoSizeText(
+                        style: TextStyle(fontWeight: FontWeight.bold),
                         title,
                         maxLines: 3,
                       ),
-                    ))
+                    )),
+                    InkWell(
+                      onTap: (){
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => MyHomePage(title: "Pagrindinis"))
+                        );
+                      },
+                      child: Row(
+                          children: [
+                            Padding(
+                                padding: EdgeInsets.only(top: 5, left: 5, bottom: 5),
+                                child: Image.asset(
+                                  'assets/pictures/kjg_plus.png',
+                                  height: 50,
+                                )
+                            )
+                          ]),
+                    ),
               ]
           )
       );
