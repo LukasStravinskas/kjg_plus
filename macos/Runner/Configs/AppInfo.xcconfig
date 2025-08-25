@@ -8,7 +8,7 @@
 PRODUCT_NAME = kjgplus
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.kjgplus
+PRODUCT_BUNDLE_IDENTIFIER = lt.kjg.kjgplus
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2025 lt.kjg. All rights reserved.

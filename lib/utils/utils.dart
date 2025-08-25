@@ -1,9 +1,6 @@
 
 
 import 'package:flutter/cupertino.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:giesmynas/utils/text_alignment_enum.dart';
-import 'package:giesmynas/utils/text_font_enum.dart';
 
 class Utils {
 

@@ -1,3 +1,4 @@
+import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:kjgplus/Constants/colors_constants.dart';
 import 'package:kjgplus/Constants/prayer_constants.dart';
@@ -36,29 +37,32 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return 
+    Scaffold(
       backgroundColor: ColorsConstants.background1,
-      body: Center(
-        // Center is a layout widget. It takes a single child and positions it
-        // in the middle of the parent.
-        child: Column(
+      body: 
+        SingleChildScrollView(
+        child: 
+        Column(
           mainAxisAlignment: MainAxisAlignment.start,
           children: <Widget>[
-            Padding(padding: EdgeInsets.only(left: 10, right: 10, top: 10, bottom: 10),
-                child: Column(
-                    children: [
-                      Padding(padding: EdgeInsets.only(top: 40, bottom: 40),
-                        child:  const Text('SVEIKA KJG \n\r BENDRUOMENE', textAlign: TextAlign.center,
-                        style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold)
-                      ),),
-                      const Text('TAI YRA PROGRAMĖLĖ MALDOS KULTŪRAI GIMNAZIJOJE PUOSELĖTI', textAlign: TextAlign.center,
-                        style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: ColorsConstants.orange)
-                      )
-                    ],
-                ),
-            ),
+              Padding(padding: EdgeInsets.only(left: 10, right: 10, top: 10, bottom: 10),
+                  child: Column(
+                      children: [
+                        Padding(padding: EdgeInsets.only(top: 40, bottom: 40),
+                          child:  AutoSizeText('SVEIKA KJG \n\r BENDRUOMENE', textAlign: TextAlign.center,
+                          style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold)
+                        ),),
+                        AutoSizeText('TAI YRA PROGRAMĖLĖ MALDOS KULTŪRAI GIMNAZIJOJE PUOSELĖTI', textAlign: TextAlign.center,
+                          style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: ColorsConstants.orange)
+                        )
+                      ],
+                  ),
+              ),
 
-            Expanded(child: Padding(padding: EdgeInsets.only(left: 20, right: 20, top: 10, bottom: 10),
+
+            // Expanded(child: 
+            Padding(padding: EdgeInsets.only(left: 20, right: 20, top: 10, bottom: 10),
                 child: ListTile(
                 tileColor: ColorsConstants.background2,
                 shape: RoundedRectangleBorder(
@@ -79,9 +83,10 @@ class _MyHomePageState extends State<MyHomePage> {
                 }
               ),
               ),
-            ),
+            // ),
 
-            Expanded(child: Padding(padding: EdgeInsets.only(left: 20, right: 20, top: 10, bottom: 10),
+            // Expanded(child: 
+            Padding(padding: EdgeInsets.only(left: 20, right: 20, top: 10, bottom: 10),
                 child:
               ListTile(
                 tileColor: ColorsConstants.background2,
@@ -103,9 +108,9 @@ class _MyHomePageState extends State<MyHomePage> {
                 }
               ),
             ),
-            ),
+            // ),
             
-            Expanded(child: 
+            // Expanded(child: 
               
               Padding(padding: EdgeInsets.only(left: 20, right: 20, top: 10, bottom: 10),
                   child:
@@ -131,11 +136,11 @@ class _MyHomePageState extends State<MyHomePage> {
                   }
                 ),
               ),
-            ),
+            // ),
             
-            Expanded( child: 
+            // Expanded( child: 
               Center(child: 
-              Padding(padding: EdgeInsets.only(left: 20, right: 20, top: 10, bottom: 20),
+              Padding(padding: EdgeInsets.only(left: 20, right: 20, top: 10, bottom: 10),
                   child:
                 ListTile(
                   tileColor: ColorsConstants.background2,
@@ -161,11 +166,10 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             )
                 
-            ),
+            // ),
           ],
         ),
-
-      ),
+      ) ,
     );
   }
 }

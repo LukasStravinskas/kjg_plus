@@ -633,6 +633,7 @@ Jo įkurta Jėzaus Draugija paliko gilius pėdsakus Bažnyčios istorijoje. Ji i
 
 Lojolos šventovės interneto svetainėje šv. Ignaco šventės proga rašoma: „Liepos 31-oji – tai diena žmonių, kurie mažai miega, bet daug sapnuoja, svajoja; tų, kurie į ateitį žvelgia kaip į galimybę, o ne kaip į problemą; tų, kurie nėra visko suplanavę ir nusprendę; tų, kurie nebijo suklysti, bet visada stengiasi mylėti kitus“. Šventės Mišios Lojoloje aukojamos ir šv. Ignacui dedikuotoje bazilikoje, ir Atsivertimo koplyčioje, tai yra rūmų kambaryje, kuriame per mūšį sužeistas Ignacas buvo gydomas ir kur, skaitydamas šventųjų gyvenimų aprašymus, nusprendė radikaliai keisti gyvenimą.
 
+Ignacas yra Jėzaus Draugijos steigėjas
 """, 'assets/pictures/ignacas.png'));
   saintsList.add(Saint('Šv. Stanislovas Kostka SJ (1550–1568) ', 'Šventasis, kuris padės rasti savo pašaukimą', """Jo broliai jį prisiminė kaip uoliausią naujoką, kupiną Dievo džiaugsmo. Visi matė, kad jėzuitų bendruomenė tikrai yra ta vieta, kurios jis norėjo. Net kančios neužgesino jo jaunatviško entuziazmo. Po mirties jo kultą Italijoje išplatino jį mylėję žmonės.
 
@@ -650,7 +651,9 @@ Dėl šios patirties Stanislovo tikėjimas tapo vis gyvesnis ir sąmoningesnis. 
 
 Šv. Stanislovas Kostka yra idealus užtarėjas profesinio įžvalgumo klausimu. Jo istorija kupina jaunatviškos aistros ir drąsos siekti to, kas gražu, bet kartu ir sunku. Štai kodėl jis tapo lenkų jaunimo, naujokų ir studentų globėju. Jis buvo atkaklus ir šiandien galime prašyti šios malonės per jo užtarimą.
 
-Šv. Stanislovo posakis "Ad majora natus sum" (iš lot. gimęs kilnesniems tikslams) yra tapęs ir Kauno jėzuitų gimnazijos šūkiu.""", 'assets/pictures/stanislovas.png'));
+Šv. Stanislovo posakis "Ad majora natus sum" (iš lot. gimęs kilnesniems tikslams) yra tapęs ir Kauno jėzuitų gimnazijos šūkiu.
+
+Kostka yra Kauno nežinotų gimnazijos globėjas""", 'assets/pictures/stanislovas.png'));
 
   saintsList.add(Saint('Šv. Pranciškus Ksaveras (1506–1552) ', 'Šventasis, misijų globėjas', """Pranciškus gimė 1506 m. Ksaviere - mažame kaimelyje Navaros provincijoje, esančioje Ispanijos šiaurėje. Jis buvo baskas, penktas ir paskutinis vaikas savo tėvų, turinčių žemės, šeimoje. Kai Pranciškus gimė, kiti du jo broliai ir dvi sesės jau buvo paaugliai. Jų šeimos namai buvo pilyje. Jie turėjo savo nuosavą koplyčią, kurioje vietinis kunigas laikydavo Mišias. Deja, jo tėvas mirė jam dar mažam esant, o šeima prarado savo namus ir žemę karo su Ispanija metu. Jo motina, labai pamaldi katalikė, kartu su vietiniais kunigais pasirūpino, kad jis gautų gerą išsilavinimą.
 
@@ -668,6 +671,7 @@ Apmąstęs Kristaus kvietimą savo mokiniams ir skyręs laiko apsvarstyti savo p
 
 Šv. Pranciškus Ksaveras yra šventasis misijų globėjas. Jis visada buvo populiarius ne tik tarp katalikų, bet ir tarp daugelio nekatalikų. Turbūt, jis yra pats žinomiausias iš jėzuitų. Šventuoju jis buvo paskelbtas 1622 m., kartu su šv. Ignacu Lojola.
 
+Ksaveras mūsų bažnyčios globėjas.
 """, 'assets/pictures/ksaveras.png'));
 
   }

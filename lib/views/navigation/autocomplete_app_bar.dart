@@ -9,8 +9,9 @@ import 'package:kjgplus/views/screens/main_screens/full_prayer_list.dart';
 class AutocompleteAppBar extends StatelessWidget implements PreferredSizeWidget{
   String title ;
   InitializeLists lists = InitializeLists();
+  bool isTitleBold = false;
 
-  AutocompleteAppBar(this.title, {super.key});
+  AutocompleteAppBar(this.title, {super.key, this.isTitleBold = false});
 
   @override
   Widget build(BuildContext context) {
@@ -26,7 +27,7 @@ class AutocompleteAppBar extends StatelessWidget implements PreferredSizeWidget{
                     child: FittedBox(
                       fit: BoxFit.fitHeight,
                       child: AutoSizeText(
-                        style: TextStyle(fontWeight: FontWeight.bold),
+                        style: TextStyle(fontWeight: isTitleBold ? FontWeight.bold : FontWeight.normal),
                         title,
                         maxLines: 3,
                       ),

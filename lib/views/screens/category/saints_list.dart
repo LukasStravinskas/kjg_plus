@@ -39,7 +39,7 @@ class SaintsList extends StatelessWidget {
                                 shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(25),
                                 ), 
-                                title: AutoSizeText(lists.saintsList.elementAt(index).name),
+                                title: AutoSizeText(lists.saintsList.elementAt(index).name.toUpperCase()),
                                   children: [
                                     SaintListTile(lists.saintsList.elementAt(index)
                                   )],)
