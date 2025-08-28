@@ -242,180 +242,71 @@ ir dėl to, kad esi mano Dievas. Amen.
 """));
       
 
-      prayersShort.add(Prayer('Gyveno kartą toks labai suvargęs medkirtys, kuris', """Gyveno kartą toks labai suvargęs medkirtys, kuris
-švaistė savo laiką ir energiją, medžius kirsdamas
-atšipusiu kirviu, nes, jo žodžiais, neturėjo kada stabtelėti
-ir pagaląsti jo ašmenų. Jėzau, mokyk mus neskubėti,
-mokyk apmąstyti ir įvertinti savo poelgius, kad mūsų
-veikla būtų prasminga ir teiktų džiaugsmą.
+      prayersShort.add(Prayer('Gyveno kartą toks labai suvargęs medkirtys, kuris', """Gyveno kartą toks labai suvargęs medkirtys, kuris švaistė savo laiką ir energiją, medžius kirsdamas atšipusiu kirviu, nes, jo žodžiais, neturėjo kada stabtelėti ir pagaląsti jo ašmenų. Jėzau, mokyk mus neskubėti, mokyk apmąstyti ir įvertinti savo poelgius, kad mūsų veikla būtų prasminga ir teiktų džiaugsmą.
 """));
-      prayersShort.add(Prayer('Mokinys: „Kuo skiriasi žinojimas nuo nušvitimo?“', """Mokinys: „Kuo skiriasi žinojimas nuo nušvitimo?“
-Mokytojas: „Kai turi žinojimą, naudojiesi žiburiu keliui
-parodyti. Kai nušvinti, pats tampi žiburiu“. Gerasis
-Dieve, padaryk mus tikrais išminties ir gailestingumo
-žiburiais.
+      prayersShort.add(Prayer('Mokinys: „Kuo skiriasi žinojimas nuo nušvitimo?“', """Mokinys: „Kuo skiriasi žinojimas nuo nušvitimo?“ Mokytojas: „Kai turi žinojimą, naudojiesi žiburiu keliui parodyti. Kai nušvinti, pats tampi žiburiu“. Gerasis Dieve, padaryk mus tikrais išminties ir gailestingumo žiburiais.
 """));
-      prayersShort.add(Prayer('Kam reikalingos akys, kai širdis akla? Viešpatie,', """Kam reikalingos akys, kai širdis akla? Viešpatie,
-padaryk, kad ne tik akimis, bet ir širdimi matytume ir
-priimtume vieni kitus, siektume tarpusavio supratimo ir
-pagalbos.
+      prayersShort.add(Prayer('Kam reikalingos akys, kai širdis akla? Viešpatie,', """Kam reikalingos akys, kai širdis akla? Viešpatie, padaryk, kad ne tik akimis, bet ir širdimi matytume ir priimtume vieni kitus, siektume tarpusavio supratimo ir pagalbos.
 """));
-      prayersShort.add(Prayer('Mokinys: „Kam turėčiau teikti didžiausią svarbą?“', """Mokinys: „Kam turėčiau teikti didžiausią svarbą?“
-Mokytojas: „Tam, ką tuo metu darai“.
-Dieve, mokyk mus susitelkti tam, ką darome ir dėkoti
-už kiekvieną gyvenimo akimirką.
+      prayersShort.add(Prayer('Mokinys: „Kam turėčiau teikti didžiausią svarbą?“', """Mokinys: „Kam turėčiau teikti didžiausią svarbą?“ Mokytojas: „Tam, ką tuo metu darai“. Dieve, mokyk mus susitelkti tam, ką darome ir dėkoti už kiekvieną gyvenimo akimirką.
 """));
-      prayersShort.add(Prayer('Kartais sakome: aš žinau, ką mėgstu. Tai reikštų, jog', """Kartais sakome: aš žinau, ką mėgstu. Tai reikštų, jog
-mėgstu tik tai, ką žinau. Viešpatie, žadink sieloje
-troškimą pažinti naujus dalykus, atrasti dar nepramintus
-kelius.
+      prayersShort.add(Prayer('Kartais sakome: aš žinau, ką mėgstu. Tai reikštų, jog', """Kartais sakome: aš žinau, ką mėgstu. Tai reikštų, jog mėgstu tik tai, ką žinau. Viešpatie, žadink sieloje troškimą pažinti naujus dalykus, atrasti dar nepramintus kelius.
 """));
-      prayersShort.add(Prayer('Viešpatie, tikime, kad tu atleidi ir užmiršti visus mūsų', """Viešpatie, tikime, kad tu atleidi ir užmiršti visus mūsų
-prasižengimus. Mokyk mus atleisti sau ir kitiems,
-kad savo klasėje ir mokykloje jaustumės saugūs ir
-pasitikėtume vieni kitais.
+      prayersShort.add(Prayer('Viešpatie, tikime, kad tu atleidi ir užmiršti visus mūsų', """Viešpatie, tikime, kad tu atleidi ir užmiršti visus mūsų prasižengimus. Mokyk mus atleisti sau ir kitiems, kad savo klasėje ir mokykloje jaustumės saugūs ir pasitikėtume vieni kitais.
 """));
-      prayersShort.add(Prayer('Dieve, tu kaip ir grožis, esi kiekviename, kuris tavęs', """Dieve, tu kaip ir grožis, esi kiekviename, kuris tavęs
-ieško. Įkvėpk mus visuomet Tavęs ieškoti ir niekuomet
-nepaliauti.
+      prayersShort.add(Prayer('Dieve, tu kaip ir grožis, esi kiekviename, kuris tavęs', """Dieve, tu kaip ir grožis, esi kiekviename, kuris tavęs ieško. Įkvėpk mus visuomet Tavęs ieškoti ir niekuomet nepaliauti.
 """));
-      prayersShort.add(Prayer('Pažinti daiktus tai – būti mokytam. Pažinti kitus tai –', """Pažinti daiktus tai – būti mokytam. Pažinti kitus tai –
-būti išmintingam. Pažinti save tai – šviesti.
+      prayersShort.add(Prayer('Pažinti daiktus tai – būti mokytam. Pažinti kitus tai –', """Pažinti daiktus tai – būti mokytam. Pažinti kitus tai – būti išmintingam. Pažinti save tai – šviesti.
 """));
-      prayersShort.add(Prayer('Dieve, Tu gyveni mūsų širdyse. Todėl pažinę save,', """Dieve, Tu gyveni mūsų širdyse. Todėl pažinę save,
-pažinsime ir Tave. Tik tuomet mūsų širdys giedos: „Garbė
-Dievui Tėvui ir Sūnui, ir Šventajai Dvasiai...“
+      prayersShort.add(Prayer('Dieve, Tu gyveni mūsų širdyse. Todėl pažinę save,', """Dieve, Tu gyveni mūsų širdyse. Todėl pažinę save, pažinsime ir Tave. Tik tuomet mūsų širdys giedos: „Garbė Dievui Tėvui ir Sūnui, ir Šventajai Dvasiai...“
 """));
-      prayersShort.add(Prayer('Išminčius tarė: „Jei manai, kad esi toks, kaip draugai', """Išminčius tarė: „Jei manai, kad esi toks, kaip draugai
-ir priešai apie tave kalba, tai akivaizdu, kad nepažįsti
-savęs“. Dieve, juk mes Tavyje gyvename, judame ir
-esame. Padėk suprasti, kad esame Tavo vaikai, o vieni
-kitiems – broliai ir seserys.
+      prayersShort.add(Prayer('Išminčius tarė: „Jei manai, kad esi toks, kaip draugai', """Išminčius tarė: „Jei manai, kad esi toks, kaip draugai ir priešai apie tave kalba, tai akivaizdu, kad nepažįsti savęs“. Dieve, juk mes Tavyje gyvename, judame ir esame. Padėk suprasti, kad esame Tavo vaikai, o vieni kitiems – broliai ir seserys.
 """));
-      prayersShort.add(Prayer('Sakoma, kai Mozė trenkė savo lazda į Raudonąją jūrą,', """Sakoma, kai Mozė trenkė savo lazda į Raudonąją jūrą,
-stebuklas, kurio jis tikėjosi, neįvyko. Tik tada, kai pirma-
-sis žmogus pats puolė į jūrą, bangos prasiskyrė, atverda-
-mos tautai kelią sausuma. Gerasis Dieve, suteik drąsos 
-rizikuoti, priimti naujus iššūkius, tapti pavyzdžiu savo
-draugams.
+      prayersShort.add(Prayer('Sakoma, kai Mozė trenkė savo lazda į Raudonąją jūrą,', """Sakoma, kai Mozė trenkė savo lazda į Raudonąją jūrą, stebuklas, kurio jis tikėjosi, neįvyko. Tik tada, kai pirmasis žmogus pats puolė į jūrą, bangos prasiskyrė, atverdamos tautai kelią sausuma. Gerasis Dieve, suteik drąsos rizikuoti, priimti naujus iššūkius, tapti pavyzdžiu savo draugams.
 """));
-      prayersShort.add(Prayer('Kai tvenkinys išsenka ir žuvys guli ant perdžiūvusios', """Kai tvenkinys išsenka ir žuvys guli ant perdžiūvusios
-žemės, jų sušlapinimas vandens šliūkštelėjimu jokiu
-būdu neprilygs jų įmetimui atgal į ežerą. Gerasis Dieve,
-panardink mus savyje – suteik tikrą dvasinę patirtį per
-maldą, rekolekcijas, mišias, nuoširdų bendravimą.
+      prayersShort.add(Prayer('Kai tvenkinys išsenka ir žuvys guli ant perdžiūvusios', """Kai tvenkinys išsenka ir žuvys guli ant perdžiūvusios žemės, jų sušlapinimas vandens šliūkštelėjimu jokiu būdu neprilygs jų įmetimui atgal į ežerą. Gerasis Dieve, panardink mus savyje – suteik tikrą dvasinę patirtį per maldą, rekolekcijas, mišias, nuoširdų bendravimą.
 """));
-      prayersShort.add(Prayer('Žmonės maitinasi žodžiai, gyvena pagal žodžius ir', """Žmonės maitinasi žodžiai, gyvena pagal žodžius ir
-greičiausiai be jų neištvertų. Viešpatie, mokyk mus
-atsakingai bendrauti – vartoti žodžius, kurie nežemintų
-kito asmens, bet skatintų siekti gėrio.
+      prayersShort.add(Prayer('Žmonės maitinasi žodžiai, gyvena pagal žodžius ir', """Žmonės maitinasi žodžiai, gyvena pagal žodžius ir greičiausiai be jų neištvertų. Viešpatie, mokyk mus atsakingai bendrauti – vartoti žodžius, kurie nežemintų kito asmens, bet skatintų siekti gėrio.
 """));
-      prayersShort.add(Prayer('Suklusk! Mėgaukis paukščio giesme, vėju medžiuose,', """Suklusk! Mėgaukis paukščio giesme, vėju medžiuose,
-jūros mūša. Lyg pirmą kartą žiūrėk į medį, krentantį lapą,
-gėlę. Ačiū Tau, Dieve, už tokį stebuklą.
+      prayersShort.add(Prayer('Suklusk! Mėgaukis paukščio giesme, vėju medžiuose,', """Suklusk! Mėgaukis paukščio giesme, vėju medžiuose, jūros mūša. Lyg pirmą kartą žiūrėk į medį, krentantį lapą, gėlę. Ačiū Tau, Dieve, už tokį stebuklą.
 """));
-      prayersShort.add(Prayer('Esminis skirtumas tikėjime yra ne tarp tų, kurie meldžiasi,', """Esminis skirtumas tikėjime yra ne tarp tų, kurie meldžiasi,
-ir tų, kurie nesimeldžia. Bet tarp tų, kurie myli ir tų,
-kurie – ne. Viešpatie, išmokyk mus mylėti ir gerbti vieni
-kitus.
+      prayersShort.add(Prayer('Esminis skirtumas tikėjime yra ne tarp tų, kurie meldžiasi,', """Esminis skirtumas tikėjime yra ne tarp tų, kurie meldžiasi, ir tų, kurie nesimeldžia. Bet tarp tų, kurie myli ir tų, kurie – ne. Viešpatie, išmokyk mus mylėti ir gerbti vieni kitus.
 """));
-      prayersShort.add(Prayer('Jei tau būtų leista, ką pasirinktum: ar tavo noro išpildymą', """Jei tau būtų leista, ką pasirinktum: ar tavo noro išpildymą
-ar malonę būti ramiam, nesvarbu, bus jis išpildytas, ar
-ne? (Pasakyk Viešpačiui savo pasirinkimą). Trumpa tyla.
-Amen.
+      prayersShort.add(Prayer('Jei tau būtų leista, ką pasirinktum: ar tavo noro išpildymą', """Jei tau būtų leista, ką pasirinktum: ar tavo noro išpildymą ar malonę būti ramiam, nesvarbu, bus jis išpildytas, ar ne? (Pasakyk Viešpačiui savo pasirinkimą). Trumpa tyla. Amen.
 """));
-      prayersShort.add(Prayer('Jėzau, padėk mums šiandien atpažinti Tave', """Jėzau, padėk mums šiandien atpažinti Tave savo drau-
-guose, ypač tuose, kuriems mažiau sekasi.
+      prayersShort.add(Prayer('Jėzau, padėk mums šiandien atpažinti Tave', """Jėzau, padėk mums šiandien atpažinti Tave savo drauguose, ypač tuose, kuriems mažiau sekasi.
 """));
-      prayersShort.add(Prayer('Dieve, padėk mums būti kantriems', """Dieve, padėk mums būti kantriems su mokytojais ir
-draugais, nes Tu esi mums kantrus ir labai gailestingas.
-Viešpatie, gailestingumo Tėve, pagelbėk kaliniams,
-apšviesk akluosius, pagirdyk ištroškusius, aplankyk
-našlaičius – išmokyk mus rūpintis nelaimingaisiais.
+      prayersShort.add(Prayer('Dieve, padėk mums būti kantriems', """Dieve, padėk mums būti kantriems su mokytojais ir draugais, nes Tu esi mums kantrus ir labai gailestingas. Viešpatie, gailestingumo Tėve, pagelbėk kaliniams, apšviesk akluosius, pagirdyk ištroškusius, aplankyk našlaičius – išmokyk mus rūpintis nelaimingaisiais.
 """));
-      prayersShort.add(Prayer('Dieve, atlygink tiems, kurie mus myli', """Dieve, atlygink tiems, kurie mus myli ir mumis
-rūpinasi, ir palaimink mūsų priešus, nes visi esame
-Tavo vaikai.
+      prayersShort.add(Prayer('Dieve, atlygink tiems, kurie mus myli', """Dieve, atlygink tiems, kurie mus myli ir mumis rūpinasi, ir palaimink mūsų priešus, nes visi esame Tavo vaikai.
 """));
-      prayersShort.add(Prayer('Jėzau, neleisk, kad mus nugalėtų blogis', """Jėzau, neleisk, kad mus nugalėtų blogis, bet išmokyk
-mus blogį nugalėti gėriu.
-Dieve, mūsų žodžiai ir mūsų darbai teskelbia Tavo
-garbę, o mūsų širdys nesidžiaugia Tavimi.
+      prayersShort.add(Prayer('Jėzau, neleisk, kad mus nugalėtų blogis', """Jėzau, neleisk, kad mus nugalėtų blogis, bet išmokyk mus blogį nugalėti gėriu. Dieve, mūsų žodžiai ir mūsų darbai teskelbia Tavo garbę, o mūsų širdys nesidžiaugia Tavimi.
 V. Meldžiam Tave.
 A. Išklausyk mus, Viešpatie.
 """));
-      prayersShort.add(Prayer('Viešpatie Jėzau, mūsų ryto malda tešlovina Tavo prisikėlimą', """Viešpatie Jėzau, mūsų ryto malda tešlovina Tavo
-prisikėlimą. Sustiprink mūsų gerus pasiryžimus,
-tegul jie būna pirmosios dovanos, kurias Tau teiksime
-šiandien.
+      prayersShort.add(Prayer('Viešpatie Jėzau, mūsų ryto malda tešlovina Tavo prisikėlimą', """Viešpatie Jėzau, mūsų ryto malda tešlovina Tavo prisikėlimą. Sustiprink mūsų gerus pasiryžimus, tegul jie būna pirmosios dovanos, kurias Tau teiksime šiandien.
 """));
-      prayersShort.add(Prayer('Kaip elnė uodžia upelio, taip mano širdis Tavęs ilgis, o Dieve', """Kaip elnė uodžia upelio, taip mano širdis Tavęs ilgis, o
-Dieve. Viešpatie, pasilik su mumis.
-Visą šią dieną pasilik su mumis, o Tavo malonės šviesa
-nepaliaujamai mums tešviečia.
-Viešpatie, pasilik su mumis.
-Išmokyk mus drąsiai pakęsti priešingumus ir tarnauti
-Tau kilnia širdimi.
-Tu, Dieve, gyveni mūsų tarpe. Tavuoju vardu esame
-pavadinti. Neapleiski mūsų, Viešpatie, mūsų Dieve!
+      prayersShort.add(Prayer('Kaip elnė uodžia upelio, taip mano širdis Tavęs ilgis, o Dieve', """Kaip elnė uodžia upelio, taip mano širdis Tavęs ilgis, o Dieve. Viešpatie, pasilik su mumis. Visą šią dieną pasilik su mumis, o Tavo malonės šviesa nepaliaujamai mums tešviečia. Viešpatie, pasilik su mumis. Išmokyk mus drąsiai pakęsti priešingumus ir tarnauti Tau kilnia širdimi. Tu, Dieve, gyveni mūsų tarpe. Tavuoju vardu esame pavadinti. Neapleiski mūsų, Viešpatie, mūsų Dieve!
 """));
-      prayersShort.add(Prayer('Melskimės psalmės žodžiais', """Melskimės psalmės žodžiais: „Dieve, juk Tu mano
-širdį sukūrei, užmezgei mane motinos įsčiose. Mano
-išvaizda Tau buvo žinoma, kai buvau slapta kuriamas,
-rūpestingai sudėtas žemės gelmėse – tavo akys matė
-mane dar negimusį. Šlovinu Tave, nes esu nuostabiai
-padarytas“.
+      prayersShort.add(Prayer('Melskimės psalmės žodžiais', """Melskimės psalmės žodžiais: „Dieve, juk Tu mano širdį sukūrei, užmezgei mane motinos įsčiose. Mano išvaizda Tau buvo žinoma, kai buvau slapta kuriamas, rūpestingai sudėtas žemės gelmėse – tavo akys matė mane dar negimusį. Šlovinu Tave, nes esu nuostabiai padarytas“.
 """));
-      prayersShort.add(Prayer('Jėzus meldėsi:', """Jėzus meldėsi: „Kaip tu, Tėve manyje ir aš tavyje, tegul
-ir jie bus viena mumyse, kad pasaulis įtikėtų, jog tu esi
-mane siuntęs“. Padėk mums, Dieve, būti tikra
-bendruomene.
+      prayersShort.add(Prayer('Jėzus meldėsi:', """Jėzus meldėsi: „Kaip tu, Tėve manyje ir aš tavyje, tegul ir jie bus viena mumyse, kad pasaulis įtikėtų, jog tu esi mane siuntęs“. Padėk mums, Dieve, būti tikra bendruomene.
 """));
-      prayersShort.add(Prayer('Tegul Viešpats Jėzus uždeda savo rankas ant mūsų akių', """Tegul Viešpats Jėzus uždeda savo rankas ant mūsų
-akių, kad imtume matyti tai, kas nematoma, o ne tai,
-kas įžvelgiama. Teatveria jis mūsų akis, kad matytume
-ateitį, o ne dabartį, teatveria jis mūsų širdies akis,
-kuriomis matome Dievą. Per Viešpatį Jėzų Kristų, Jam
-tebūna garbė ir šlovė per amžius. (Origenas, III a.)
+      prayersShort.add(Prayer('Tegul Viešpats Jėzus uždeda savo rankas ant mūsų akių', """Tegul Viešpats Jėzus uždeda savo rankas ant mūsų akių, kad imtume matyti tai, kas nematoma, o ne tai, kas įžvelgiama. Teatveria jis mūsų akis, kad matytume ateitį, o ne dabartį, teatveria jis mūsų širdies akis, kuriomis matome Dievą. Per Viešpatį Jėzų Kristų, Jam tebūna garbė ir šlovė per amžius. (Origenas, III a.)
 """));
-      prayersShort.add(Prayer('Suteik mums, Viešpatie, protą, kuris Tave pažintų', """Suteik mums, Viešpatie, protą, kuris Tave pažintų,
-veržimąsi, kuris Tavęs ieškotų, išmintį, kuri Tave rastų,
-gyvenimą, kuris Tau patiktų, ištvermę, kuri Tavęs su
-pasitikėjimu lauktų, ir apsitikėjimą, kuris Tave galiau-
-siai pasiektų. (Šv. Tomas Akvinietis, XIII a.)
+      prayersShort.add(Prayer('Suteik mums, Viešpatie, protą, kuris Tave pažintų', """Suteik mums, Viešpatie, protą, kuris Tave pažintų, veržimąsi, kuris Tavęs ieškotų, išmintį, kuri Tave rastų, gyvenimą, kuris Tau patiktų, ištvermę, kuri Tavęs su pasitikėjimu lauktų, ir apsitikėjimą, kuris Tave galiausiai pasiektų. (Šv. Tomas Akvinietis, XIII a.)
 """));
-      prayersShort.add(Prayer('Imk ir priimk, Viešpatie, visą mano laisvę', """Imk ir priimk, Viešpatie, visą mano laisvę, atmintį,
-protą ir valią, visa, ką turiu ir valdau. Tu, Viešpatie, man
-tai davei, Tau visa gražinu. Visa yra Tavo – tvarkyk
-pagal savo valią. Duok man tik savo meilę ir malonę,
-nes to man užtenka. (Šv. Ignacas Lojola, XVI a.)
+      prayersShort.add(Prayer('Imk ir priimk, Viešpatie, visą mano laisvę', """Imk ir priimk, Viešpatie, visą mano laisvę, atmintį, protą ir valią, visa, ką turiu ir valdau. Tu, Viešpatie, man tai davei, Tau visa gražinu. Visa yra Tavo – tvarkyk pagal savo valią. Duok man tik savo meilę ir malonę, nes to man užtenka. (Šv. Ignacas Lojola, XVI a.)
 """));
-      prayersShort.add(Prayer('Jėzus sakė', """Jėzus sakė: „Aš – pasaulio šviesa. Kas seka minimi,
-nebevaikščios tamsybėse, bet turės gyvenimo šviesą“.
-Jėzau, mokyk mus vaikščioti Tavo šviesoje.
+      prayersShort.add(Prayer('Jėzus sakė', """Jėzus sakė: „Aš – pasaulio šviesa. Kas seka minimi, nebevaikščios tamsybėse, bet turės gyvenimo šviesą“. Jėzau, mokyk mus vaikščioti Tavo šviesoje.
 """));
-      prayersShort.add(Prayer('Kristus kalbėjo:', """Kristus kalbėjo: „Jei kas trokšta, teateina pas mane.
-Kas mane tiki, iš to vidaus plūs gyvojo
-vandens srovės“. Viešpatie, mokyk mus dalinti gyvąjį
-vandenį – būti sąžiningiems, gailestingiems,
-pakantiems.
+      prayersShort.add(Prayer('Kristus kalbėjo:', """Kristus kalbėjo: „Jei kas trokšta, teateina pas mane. Kas mane tiki, iš to vidaus plūs gyvojo vandens srovės“. Viešpatie, mokyk mus dalinti gyvąjį, vandenį – būti sąžiningiems, gailestingiems, pakantiems.
 """));
-      prayersShort.add(Prayer('Jėzus bylojo: ', """Jėzus bylojo: „Juk aš buvau išalkęs, ir jūs mane
-pavalgydinote, buvau ištroškęs, ir mane pagirdėte,
-buvau keleivis, ir mane priglaudėte, buvau nuogas
-– mane aprengėte, ligonis – mane aplankėte, kalinys –
-atėjote pas mane... Iš tiesų sakau jums, kiek kartų tai
-padarėte vienam iš šitų mažiausiųjų, man padarėte“.
-Viešpatie Jėzau, mokyk mus su meile priimti kiekvieną
-klasės draugą.
-Kasdien pasaulyje apie 24 000 žmonių miršta iš bado,
-daugiausia iš jų vaikai. Viešpatie, mokyk valstybių va-
-dovus dalintis ištekliais ir gėrybėmis su stokojančiais,
-o mus – būti dosniais, džiaugtis tuo, ką turime.
+      prayersShort.add(Prayer('Jėzus bylojo: ', """Jėzus bylojo: „Juk aš buvau išalkęs, ir jūs mane pavalgydinote, buvau ištroškęs, ir mane pagirdėte, buvau keleivis, ir mane priglaudėte, buvau nuogas – mane aprengėte, ligonis – mane aplankėte, kalinys – atėjote pas mane... Iš tiesų sakau jums, kiek kartų tai padarėte vienam iš šitų mažiausiųjų, man padarėte“. Viešpatie Jėzau, mokyk mus su meile priimti kiekvieną klasės draugą. 
+
+Kasdien pasaulyje apie 24 000 žmonių miršta iš bado, daugiausia iš jų vaikai. Viešpatie, mokyk valstybių va- dovus dalintis ištekliais ir gėrybėmis su stokojančiais, o mus – būti dosniais, džiaugtis tuo, ką turime.
 """));
-      prayersShort.add(Prayer('Dėkojame Tau, Viešpatie, už mokytojus, kurie kantriai bendrauja su mumis', """Dėkojame Tau, Viešpatie, už mokytojus, kurie kantriai
-bendrauja su mumis, taiso mūsų klaidas, mus išklauso
-ir stengiasi suprasti, parodo naujus kelius.
+      prayersShort.add(Prayer('Dėkojame Tau, Viešpatie, už mokytojus, kurie kantriai bendrauja su mumis', """Dėkojame Tau, Viešpatie, už mokytojus, kurie kantriai bendrauja su mumis, taiso mūsų klaidas, mus išklauso ir stengiasi suprasti, parodo naujus kelius.
 V. Šventasis Ignacai Lojola.
 A. Melski už mus.
 V. Šventasis Pranciškau Ksaverai.
@@ -423,37 +314,19 @@ A. Melski už mus.
 V. Šventasis Stanislovai Kostka.
 A. Melski už mus.
 """));
-      prayersShort.add(Prayer('Dieve, padėk mums šiandien būti jautriems', """Dieve, padėk mums šiandien būti jautriems ir
-dėmesingiems tiems klasės draugams, kurie liūdi, yra
-užgauti ar įžeisti. Juk visi esame tavo vaikai: „Tėve
-mūsų...“
+      prayersShort.add(Prayer('Dieve, padėk mums šiandien būti jautriems', """Dieve, padėk mums šiandien būti jautriems ir dėmesingiems tiems klasės draugams, kurie liūdi, yra užgauti ar įžeisti. Juk visi esame tavo vaikai: „Tėve mūsų...“
 """));
-      prayersShort.add(Prayer('Tu žinai, Viešpatie, kad šiandien bus tikrinamos mūsų žinios', """Tu žinai, Viešpatie, kad šiandien bus tikrinamos mūsų
-žinios. Padėk mums susikaupti, sąžiningai atlikti
-pateiktas užduotis, ramiai priimti mokytojo įvertinimą.
-Gerasis Jėzau, lai ryto saulė mums primena Tavo
-prisikėlimą. Lai šypsenos draugų veiduose mums pri-
-mena Tavo buvimą kiekviename žmoguje.
+      prayersShort.add(Prayer('Tu žinai, Viešpatie, kad šiandien bus tikrinamos mūsų žinios', """Tu žinai, Viešpatie, kad šiandien bus tikrinamos mūsų žinios. Padėk mums susikaupti, sąžiningai atlikti pateiktas užduotis, ramiai priimti mokytojo įvertinimą. Gerasis Jėzau, lai ryto saulė mums primena Tavo prisikėlimą. Lai šypsenos draugų veiduose mums primena Tavo buvimą kiekviename žmoguje.
 """));
-      prayersShort.add(Prayer('Dieve, mokyk mus dirbti taip', """Dieve, mokyk mus dirbti taip, tartum viskas priklausytų
-nuo mūsų ir melstis taip, tartum viskas priklausytų nuo
-Tavęs.
+      prayersShort.add(Prayer('Dieve, mokyk mus dirbti taip', """Dieve, mokyk mus dirbti taip, tartum viskas priklausytų nuo mūsų ir melstis taip, tartum viskas priklausytų nuo Tavęs.
 """));
-      prayersShort.add(Prayer('Jėzau, savo mokiniams tu sakei: ', """Jėzau, savo mokiniams tu sakei: „Būkite drąsūs, aš
-nugalėjau pasaulį“. Duok drąsos kovoti su didžiausia
-pasaulio nuodėme – egoizmu ir švęsti pergalę kartu su
-Tavimi.
+      prayersShort.add(Prayer('Jėzau, savo mokiniams tu sakei: ', """Jėzau, savo mokiniams tu sakei: „Būkite drąsūs, aš nugalėjau pasaulį“. Duok drąsos kovoti su didžiausia pasaulio nuodėme – egoizmu ir švęsti pergalę kartu su Tavimi.
 """));
-      prayersShort.add(Prayer('Viešpatie, išmokyk mus dėkoti už gyvenimą', """Viešpatie, išmokyk mus dėkoti už gyvenimą, tėvus,
-mokytojus – už viską, ypač tuomet, kai susirenkame
-švęsti Eucharistiją.
-Ateik, tikroji šviesa, ateik amžinasis gyvenime, ateik,
-paslėptas slėpiny. Ateik, šviesa be sutemų, ateik,
-amžinasis džiaugsme, viltie, norinti išgelbėti mus visus.
-Ateik, mirusiųjų prisikėlime, ateiki.
+      prayersShort.add(Prayer('Viešpatie, išmokyk mus dėkoti už gyvenimą', """Viešpatie, išmokyk mus dėkoti už gyvenimą, tėvus, mokytojus – už viską, ypač tuomet, kai susirenkame švęsti Eucharistiją. 
+
+Ateik, tikroji šviesa, ateik amžinasis gyvenime, ateik, paslėptas slėpiny. Ateik, šviesa be sutemų, ateik, amžinasis džiaugsme, viltie, norinti išgelbėti mus visus. Ateik, mirusiųjų prisikėlime, ateiki.
 """));
-      prayersShort.add(Prayer('Dievo Motina Marija', """Dievo Motina Marija, pavedame tau save ir savo dar-
-bus. Melski už mus. „Sveika Marija...“
+      prayersShort.add(Prayer('Dievo Motina Marija', """Dievo Motina Marija, pavedame tau save ir savo darbus. Melski už mus. „Sveika Marija...“
 """));
 
   prayersBeforeExam.add(Prayer("Viešpatie Dieve, Tu esi visų žinių ir išminties šaltinis.", """Viešpatie Dieve, Tu esi visų žinių ir išminties šaltinis. Atverk mano protą ir širdį mokslui, kad gebėčiau suprasti ir įsisavinti visa, ką mokausi. Padėk man ne tik siekti gerų pažymių, bet ir suvokti tikrąją žinių vertę gyvenime. Prašau Tavo palaimos, kad būčiau kantrus mokydamasis ir stropiai ruoščiausi visiems išbandymams. Suteik man ramybę per atsiskaitymus ir atverk man kelią, kuriuo turėčiau eiti.
@@ -633,7 +506,7 @@ Jo įkurta Jėzaus Draugija paliko gilius pėdsakus Bažnyčios istorijoje. Ji i
 
 Lojolos šventovės interneto svetainėje šv. Ignaco šventės proga rašoma: „Liepos 31-oji – tai diena žmonių, kurie mažai miega, bet daug sapnuoja, svajoja; tų, kurie į ateitį žvelgia kaip į galimybę, o ne kaip į problemą; tų, kurie nėra visko suplanavę ir nusprendę; tų, kurie nebijo suklysti, bet visada stengiasi mylėti kitus“. Šventės Mišios Lojoloje aukojamos ir šv. Ignacui dedikuotoje bazilikoje, ir Atsivertimo koplyčioje, tai yra rūmų kambaryje, kuriame per mūšį sužeistas Ignacas buvo gydomas ir kur, skaitydamas šventųjų gyvenimų aprašymus, nusprendė radikaliai keisti gyvenimą.
 
-Ignacas yra Jėzaus Draugijos steigėjas
+Šv. Ignacas iš Lojolos SJ yra Jėzaus Draugijos steigėjas
 """, 'assets/pictures/ignacas.png'));
   saintsList.add(Saint('Šv. Stanislovas Kostka SJ (1550–1568) ', 'Šventasis, kuris padės rasti savo pašaukimą', """Jo broliai jį prisiminė kaip uoliausią naujoką, kupiną Dievo džiaugsmo. Visi matė, kad jėzuitų bendruomenė tikrai yra ta vieta, kurios jis norėjo. Net kančios neužgesino jo jaunatviško entuziazmo. Po mirties jo kultą Italijoje išplatino jį mylėję žmonės.
 
@@ -653,9 +526,9 @@ Dėl šios patirties Stanislovo tikėjimas tapo vis gyvesnis ir sąmoningesnis. 
 
 Šv. Stanislovo posakis "Ad majora natus sum" (iš lot. gimęs kilnesniems tikslams) yra tapęs ir Kauno jėzuitų gimnazijos šūkiu.
 
-Kostka yra Kauno nežinotų gimnazijos globėjas""", 'assets/pictures/stanislovas.png'));
+Šventasis Stanislovas Kostka SJ yra Kauno jėzuitų gimnazijos globėjas""", 'assets/pictures/stanislovas.png'));
 
-  saintsList.add(Saint('Šv. Pranciškus Ksaveras (1506–1552) ', 'Šventasis, misijų globėjas', """Pranciškus gimė 1506 m. Ksaviere - mažame kaimelyje Navaros provincijoje, esančioje Ispanijos šiaurėje. Jis buvo baskas, penktas ir paskutinis vaikas savo tėvų, turinčių žemės, šeimoje. Kai Pranciškus gimė, kiti du jo broliai ir dvi sesės jau buvo paaugliai. Jų šeimos namai buvo pilyje. Jie turėjo savo nuosavą koplyčią, kurioje vietinis kunigas laikydavo Mišias. Deja, jo tėvas mirė jam dar mažam esant, o šeima prarado savo namus ir žemę karo su Ispanija metu. Jo motina, labai pamaldi katalikė, kartu su vietiniais kunigais pasirūpino, kad jis gautų gerą išsilavinimą.
+  saintsList.add(Saint('Šv. Pranciškus Ksaveras SJ (1506–1552) ', 'Šventasis, misijų globėjas', """Pranciškus gimė 1506 m. Ksaviere - mažame kaimelyje Navaros provincijoje, esančioje Ispanijos šiaurėje. Jis buvo baskas, penktas ir paskutinis vaikas savo tėvų, turinčių žemės, šeimoje. Kai Pranciškus gimė, kiti du jo broliai ir dvi sesės jau buvo paaugliai. Jų šeimos namai buvo pilyje. Jie turėjo savo nuosavą koplyčią, kurioje vietinis kunigas laikydavo Mišias. Deja, jo tėvas mirė jam dar mažam esant, o šeima prarado savo namus ir žemę karo su Ispanija metu. Jo motina, labai pamaldi katalikė, kartu su vietiniais kunigais pasirūpino, kad jis gautų gerą išsilavinimą.
 
 Būdamas 19 metų Pranciškus išvyko studijuoti į Paryžių. Jis tikėjosi grąžinti šeimai gerus laikus tapdamas iškiliu dvasiškiu. Jis buvo šviesus ir gyvas, mylintis gyvenimą ir norintis iš jo pasipelnyti. Jam trūko vienintelio dalyko – aiškaus gyvenimo tikslo.
 
@@ -669,9 +542,9 @@ Apmąstęs Kristaus kvietimą savo mokiniams ir skyręs laiko apsvarstyti savo p
 
 1539 m. Portugalijos karalius Jonas III paprašė popiežių skirti du jėzuitus kelionei į Indiją. Buvo parinkti kiti du, tačiau paskutinę minutę vienas jų susirgo ir Ignacas paprašė Pranciškaus užimti jo vietą. Šis sutiko.
 
-Šv. Pranciškus Ksaveras yra šventasis misijų globėjas. Jis visada buvo populiarius ne tik tarp katalikų, bet ir tarp daugelio nekatalikų. Turbūt, jis yra pats žinomiausias iš jėzuitų. Šventuoju jis buvo paskelbtas 1622 m., kartu su šv. Ignacu Lojola.
+Šv. Pranciškus Ksaveras SJ yra šventasis misijų globėjas. Jis visada buvo populiarius ne tik tarp katalikų, bet ir tarp daugelio nekatalikų. Turbūt, jis yra pats žinomiausias iš jėzuitų. Šventuoju jis buvo paskelbtas 1622 m., kartu su šv. Ignacu Lojola.
 
-Ksaveras mūsų bažnyčios globėjas.
+Šv. Pranciškus Ksaveras mūsų bažnyčios globėjas.
 """, 'assets/pictures/ksaveras.png'));
 
   }
